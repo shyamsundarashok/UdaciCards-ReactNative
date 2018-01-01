@@ -1,7 +1,7 @@
 # UdaciCards
 React Nanodegree react native project. 
 
-# Installation
+# Installation:
  - git clone https://github.com/TechnicalDev/UdaciCards-ReactNative.git
  - cd UdaciCards
  - yarn install or npm install
@@ -10,3 +10,4 @@ React Nanodegree react native project.
  - Sacn QR code in terminal with mobile device to launch the app automically in it
 
  # NOTE: 
+ Tested using Expo on IPhone 6S and Google Pixel 2(Virtual Device)
